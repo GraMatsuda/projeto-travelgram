@@ -1,4 +1,4 @@
 @import url(global.css);
 @import url(nav.css);
 @import url(header.css);
-/* chama aqui para ele existir */
+@import url(main.css);

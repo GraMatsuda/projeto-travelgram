@@ -20,7 +20,7 @@
   --font-sm: 12px/170% var(--font-family);
 }
 
-:body{
+body{
   font: var(--text);
   color: var(--text-color-secondary);
   background-color: var(--background-color);
