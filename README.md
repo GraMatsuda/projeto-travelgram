@@ -15,8 +15,6 @@ O **Travelgram** simula uma rede social de viagens, onde o usuário tem seu perf
 
 👉 [Clique aqui para acessar o projeto publicado](https://gramatsuda.github.io/projeto-travelgram/)
 
-<img src="assets/images/Image 01.png" width="400px" alt="Imagem do projeto Travelgram"/>
-
 ## 🛠️ Funcionalidades
 
 - Layout responsivo
