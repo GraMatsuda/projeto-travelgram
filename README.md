@@ -25,6 +25,7 @@ O **Travelgram** simula uma rede social de viagens, onde o usuário tem seu perf
 ## 🤝 Contribuições
 Contribuições, issues e sugestões são bem-vindas!
 
-## 🧑‍💻 Autor
-Graciele Matsuda
+## 📚 Créditos
 
+Projeto desenvolvido como exercício prático durante o curso **Fullstack** da [Rocketseat](https://www.rocketseat.com.br/).  
+Reproduzido por **Graciele Matsuda** para fins de estudo e prática.
